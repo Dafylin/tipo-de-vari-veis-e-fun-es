@@ -1,1 +1,1 @@
-# tipo-de-vari-veis-e-fun-es
+# tipo de variáveis e funções
